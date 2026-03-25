@@ -1,0 +1,5 @@
+---
+title: "文章"
+permalink: /posts/
+layout: posts
+---
